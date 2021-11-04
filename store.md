@@ -1,5 +1,5 @@
 ---
-title: De
+title: Best
 layout: store
 sections:
   - type: store_section
