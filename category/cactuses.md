@@ -1,5 +1,5 @@
 ---
-title: Cactuses
+title: New Gadgets
 layout: category
 order: 2
 seo:
