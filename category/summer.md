@@ -1,5 +1,5 @@
 ---
-title: Tools
+title: Accesories
 layout: category
 order: 4
 seo:
