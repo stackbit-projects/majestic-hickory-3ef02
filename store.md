@@ -1,5 +1,5 @@
 ---
-title: Store
+title: De
 layout: store
 sections:
   - type: store_section
