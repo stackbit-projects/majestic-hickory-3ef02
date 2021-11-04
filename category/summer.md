@@ -1,5 +1,5 @@
 ---
-title: Accesories
+title: Accessories
 layout: category
 order: 4
 seo:
