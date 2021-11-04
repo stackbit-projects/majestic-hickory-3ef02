@@ -1,5 +1,5 @@
 ---
-title: Best
+title: Best Deals
 layout: store
 sections:
   - type: store_section
