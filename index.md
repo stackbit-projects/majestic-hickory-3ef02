@@ -7,8 +7,9 @@ sections:
     section_id: hero_section
     background_image: images/4910241.jpg
     background_image_opacity: 65
-    content: |
-      # Get Best On Essentials tools and Gadgets. Grad a Deal Now!
+    content: >
+      # Get Best Deals On Essentials tools for Home Office and Kitchen Gadgets.
+      Grad a Deal Now!
     actions:
       - title: See all items
         url: /store
