@@ -13,7 +13,7 @@
     "palette": "green",
     "main_menu": [
         {
-            "title": "Store",
+            "title": "Best Deals",
             "url": "/store",
             "style": "link"
         },
