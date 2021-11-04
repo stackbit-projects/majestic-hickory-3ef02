@@ -1,5 +1,5 @@
 ---
-title: Plants from Europe
+title: Kitchen Gadgets
 layout: category
 order: 3
 seo:
