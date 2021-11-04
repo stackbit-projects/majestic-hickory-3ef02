@@ -10,7 +10,7 @@ sections:
     content: |
       # Get Best Deals On Essentials tools and Gadgets. Grad a Deal Now!
     actions:
-      - title: See all items
+      - title: See all Deals
         url: /store
         arrow: true
         style: primary
