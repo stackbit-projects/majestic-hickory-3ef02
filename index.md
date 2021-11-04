@@ -29,17 +29,6 @@ sections:
     featured_categories:
       - category/bigplants.md
       - category/cactuses.md
-  - type: promotion_section
-    section_id: promotion_section
-    title: A new home interior for summer
-    subtitle: from $149.99
-    image: images/promo.jpg
-    background_image: images/leaf.svg
-    cta:
-      title: Discover
-      url: /store
-      style: secondary
-      arrow: true
 seo:
   title: Planty Theme
   description: The preview of the Planty theme
