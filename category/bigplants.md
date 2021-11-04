@@ -1,5 +1,5 @@
 ---
-title: Big plants
+title: Home Office Essentials
 layout: category
 order: 1
 seo:
