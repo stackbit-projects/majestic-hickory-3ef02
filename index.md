@@ -8,7 +8,7 @@ sections:
     background_image: images/header.jpg
     background_image_opacity: 65
     content: |
-      Get Best On Essentials tools and Gadgets. Grad a Deal Now!
+      # Get Best On Essentials tools and Gadgets. Grad a Deal Now!
     actions:
       - title: See all items
         url: /store
